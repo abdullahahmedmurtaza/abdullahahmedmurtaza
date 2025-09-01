@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abdullah 👋
 
 ## 🚀 About Me
 - 🎓 2nd-year Computer Science Undergrad from Pakistan
 - 💻 Interests: Cybersecurity | DSA | MERN Stack
-- 🌱 Currently learning [MERN Stack]
+- 🌱 Currently learning MERN Stack
 - ⚡ Fun fact: I like to read books (mainly philosophical books).
 
 ## 🛠️ Skills
