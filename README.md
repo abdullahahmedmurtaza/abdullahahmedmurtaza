@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @abdullahahmedmurtaza
-- 👀 I’m interested in Computer Science/Programming      
-- 🌱 I’m currently learning how to code and solve problems
-- 📫 How to reach me [email:abdullah.ahmed.murtaza2004@gmail.com]
-- 😄 Pronouns: he/him
+# Hi there, I'm [Your Name] 👋
 
-<!---
-abdullahahmedmurtaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🎓 2nd-year Computer Science Undergrad from Pakistan
+- 💻 Interests: Cybersecurity | DSA | MERN Stack
+- 🌱 Currently learning [MERN Stack]
+- ⚡ Fun fact: I like to read books (mainly philosophical books).
+
+## 🛠️ Skills
+- **Languages**: C, C++, JavaScript, Java
+- **Web Dev**: HTML, CSS, Tailwind CSS, React, Node.js, Express, MongoDB
+- **Cybersecurity**: Basic Linux, Networking,
+- **Other Tools**: Git, GitHub, VS Code
+
+## 📈 GitHub Stats
+![abdullahahmedmurtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahahmedmurtaza&show_icons=true&theme=tokyonight)
+
+## 🏆 Achievements & Badges
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahahmedmurtaza)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdullah-ahmed-murtaza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.ahmed.murtaza2004@gmail.com)
