@@ -11,9 +11,6 @@
 - **Web Dev**: HTML, CSS, Tailwind CSS, React, Node.js, Express, MongoDB
 - **Other Tools**: Git, GitHub, VS Code
 
-## 📈 GitHub Stats
-![abdullahahmedmurtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahahmedmurtaza&show_icons=true&theme=tokyonight)
-
 ## 🏆 Achievements & Badges
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahahmedmurtaza)
 
