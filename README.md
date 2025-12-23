@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 2nd-year Computer Science Undergrad from Pakistan
-- 💻 Interests: DSA | MERN Stack
-- 🌱 Currently learning MERN Stack
+- 💻 Interests: DSA | MERN Stack | Cloud Computing | AI/ML
+- 🌱 Currently learning MERN Stack and building appealing apps.
 - ⚡ Fun fact: I like to read books (mainly philosophical books).
 
 ## 🛠️ Skills
