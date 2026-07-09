@@ -11,7 +11,8 @@
 - **Languages**: C, C++, JavaScript, Java, Python, HTML, CSS
 - **Technologies**: Tailwind CSS, React, Node.js, Express, MongoDB, SQL, AWS, Linux
 - **Other Tools**: Git, GitHub, VS Code, IntelliJ Idea
-
+  
+## 🏆 Achievements & Badges
 <table align="center">
   <tr>
     <td align="center" width="33%">
