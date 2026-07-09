@@ -44,6 +44,25 @@
   </tr>
 </table>
 
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td>📜 AWS Cloud Practitioner</td>
+    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>📜 Cisco CCNA: Introduction to Networks</td>
+    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>📜 Google Cybersecurity Professional Certificate</td>
+    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+  </tr>
+</table>
+
+## 👀 Profile Views
+
 ![Profile views](https://komarev.com/ghpvc/?username=abdullahahmedmurtaza&color=blue)
 
 ## 🌐 Connect With Me
