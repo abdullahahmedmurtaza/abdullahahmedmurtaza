@@ -23,9 +23,6 @@
       <br>
       <sub><b>Google AI Professional</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/c10f7e9c-ec81-4811-8b3e-7d3b677740b6/public_url">
         <img src="https://images.credly.com/size/220x220/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="120" alt="Badge 4">
@@ -33,9 +30,6 @@
       <br>
       <sub><b>Google AI Fundamentals</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/25633ff4-662c-47ce-b965-70d840a2129b/public_url">
         <img src="https://images.credly.com/size/220x220/images/3d5a1839-d1dc-4821-b58e-3a274b610f37/blob" width="120" alt="Badge 4">
@@ -43,9 +37,6 @@
       <br>
       <sub><b>Google AI for Writing and Communicating</b></sub>
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/8b0eb676-e4d8-4119-ad48-d821d54db631/public_url">
         <img src="https://images.credly.com/size/220x220/images/3460226a-69cf-47d2-91cf-7ce24fe0da59/blob" width="120" alt="Badge 4">
@@ -62,8 +53,6 @@
       <br>
       <sub><b>Google AI for Data Analysis</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/8b0eb676-e4d8-4119-ad48-d821d54db631/public_url">
         <img src="https://images.credly.com/size/220x220/images/3460226a-69cf-47d2-91cf-7ce24fe0da59/blob" width="120" alt="Badge 4">
@@ -71,8 +60,6 @@
       <br>
       <sub><b>Google AI for Content Creation</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/d8f11cba-767a-48a8-a06f-a22d4a7cc475/public_url">
         <img src="https://images.credly.com/size/220x220/images/6ffa4f1e-cf24-4d4b-af84-86105720f6fe/blob" width="120" alt="Badge 4">
@@ -80,8 +67,6 @@
       <br>
       <sub><b>Google AI for Brainstorming and Planning</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/40a7c022-616c-4f71-ba7a-8a7b99110fe8/public_url">
         <img src="https://images.credly.com/size/220x220/images/7e854d65-d59d-45ad-9d4d-89d627087c08/blob" width="120" alt="Badge 4">
