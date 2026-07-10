@@ -21,7 +21,7 @@
         <img src="https://images.credly.com/size/220x220/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="120" alt="Badge 1">
       </a>
       <br>
-      <sub><b>Badge Name</b></sub>
+      <sub><b>Google AI Professional</b></sub>
     </td>
 
     <td align="center" width="33%">
@@ -43,11 +43,11 @@
 
   <tr>
     <td align="center" width="33%">
-      <a href="PASTE_CREDLY_BADGE_LINK_HERE">
-        <img src="PASTE_CREDLY_BADGE_IMAGE_LINK_HERE" width="120" alt="Badge 4">
+      <a href="https://www.credly.com/badges/c10f7e9c-ec81-4811-8b3e-7d3b677740b6/public_url">
+        <img src="https://images.credly.com/size/220x220/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="120" alt="Badge 4">
       </a>
       <br>
-      <sub><b>Badge Name</b></sub>
+      <sub><b>Google AI Fundamentals</b></sub>
     </td>
 
     <td align="center" width="33%">
