@@ -10,36 +10,56 @@
 ## 🛠️ Skills
 - **Languages**: C, C++, JavaScript, Java, Python, HTML, CSS
 - **Technologies**: Tailwind CSS, React, Node.js, Express, MongoDB, SQL, AWS, Linux
-- **Other Tools**: Git, GitHub, VS Code, IntelliJ Idea
-  
+- **Other Tools**: Git, GitHub, VS Code, IntelliJ IDEA
+
 ## 🏆 Achievements & Badges
+
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="images/badge1.png" width="120" alt="Badge 1"><br>
+      <a href="https://www.credly.com/badges/87f5dd64-74d1-4b9f-a4dd-85902cef99c0/public_url">
+        <img src="https://images.credly.com/size/220x220/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="120" alt="Badge 1">
+      </a>
+      <br>
       <sub><b>Badge Name</b></sub>
     </td>
+
     <td align="center" width="33%">
-      <img src="images/badge2.png" width="120" alt="Badge 2"><br>
+      <a href="PASTE_CREDLY_BADGE_LINK_HERE">
+        <img src="PASTE_CREDLY_BADGE_IMAGE_LINK_HERE" width="120" alt="Badge 2">
+      </a>
+      <br>
       <sub><b>Badge Name</b></sub>
     </td>
+
     <td align="center" width="33%">
-      <img src="images/badge3.png" width="120" alt="Badge 3"><br>
+      <a href="PASTE_CREDLY_BADGE_LINK_HERE">
+        <img src="PASTE_CREDLY_BADGE_IMAGE_LINK_HERE" width="120" alt="Badge 3">
+      </a>
+      <br>
       <sub><b>Badge Name</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
-      <img src="images/badge4.png" width="120" alt="Badge 4"><br>
+      <a href="PASTE_CREDLY_BADGE_LINK_HERE">
+        <img src="PASTE_CREDLY_BADGE_IMAGE_LINK_HERE" width="120" alt="Badge 4">
+      </a>
+      <br>
       <sub><b>Badge Name</b></sub>
     </td>
+
     <td align="center" width="33%">
-      <img src="images/badge5.png" width="120" alt="Badge 5"><br>
+      <a href="PASTE_CREDLY_BADGE_LINK_HERE">
+        <img src="PASTE_CREDLY_BADGE_IMAGE_LINK_HERE" width="120" alt="Badge 5">
+      </a>
+      <br>
       <sub><b>Badge Name</b></sub>
     </td>
+
     <td align="center" width="33%">
-      <!-- Future badge -->
+      <!-- Future Badge -->
     </td>
   </tr>
 </table>
@@ -49,15 +69,15 @@
 <table>
   <tr>
     <td>📜 AWS Cloud Practitioner</td>
-    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+    <td><a href="PASTE_CREDLY_BADGE_LINK_HERE">View Certificate</a></td>
   </tr>
   <tr>
     <td>📜 Cisco CCNA: Introduction to Networks</td>
-    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+    <td><a href="PASTE_CREDLY_BADGE_LINK_HERE">View Certificate</a></td>
   </tr>
   <tr>
     <td>📜 Google Cybersecurity Professional Certificate</td>
-    <td><a href="CERTIFICATE_LINK">View Certificate</a></td>
+    <td><a href="PASTE_CREDLY_BADGE_LINK_HERE">View Certificate</a></td>
   </tr>
 </table>
 
@@ -66,5 +86,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=abdullahahmedmurtaza&color=blue)
 
 ## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-ahmed-murtaza-0485ab328)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.ahmed.murtaza2004@gmail.com)
