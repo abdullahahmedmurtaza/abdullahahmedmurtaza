@@ -83,9 +83,9 @@
   
 </table>
 
-## 📜 Certifications
+<!-- ## 📜 Certifications
 
-<table>
+ <table>
   <tr>
     <td>📜 AWS Cloud Practitioner</td>
     <td><a href="PASTE_CREDLY_BADGE_LINK_HERE">View Certificate</a></td>
@@ -98,7 +98,7 @@
     <td>📜 Google Cybersecurity Professional Certificate</td>
     <td><a href="PASTE_CREDLY_BADGE_LINK_HERE">View Certificate</a></td>
   </tr>
-</table>
+</table> -->
 
 ## 👀 Profile Views
 
